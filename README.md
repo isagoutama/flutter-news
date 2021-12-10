@@ -25,3 +25,5 @@ Then run the code
 ``` bash
 $ flutter run --release
 ```
+
+Link apk & video demo: https://drive.google.com/drive/folders/1WdUQcdHjqNf3qeqEoMQVD-55tJxXH18R?usp=sharing
